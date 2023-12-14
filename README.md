@@ -18,5 +18,5 @@ Online multiplayer game project
 ---
 <h2 align="center">⚡ Projects</h2>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/MarkoTkalec321/Tastily" title="Tastily"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkoTkalec321&repo=Tastily&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/MarkoTkalec321/Tastily" title="Tastily"><img align="left" height="230" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkoTkalec321&repo=Tastily&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
