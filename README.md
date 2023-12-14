@@ -17,5 +17,5 @@ Online multiplayer game project
 
 ---
 <p align="center">
-## ⚡ Projects
+⚡ Projects
 </p>
