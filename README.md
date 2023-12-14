@@ -16,4 +16,6 @@ Online multiplayer game project
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoTkalec321&layout=compact)
 
 ---
+<p align="center">
 ## ⚡ Projects
+</p>
