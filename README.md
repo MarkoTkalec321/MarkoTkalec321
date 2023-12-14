@@ -26,7 +26,6 @@ Online multiplayer game project
   <a align="left" href="https://github.com/MarkoTkalec321/Welt" title="Welt"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkoTkalec321&repo=Welt&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/MarkoTkalec321/JavaProduction" title="Java Production"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkoTkalec321&repo=JavaProduction&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
 
 ![Alt text](bottom_line.gif)
 
