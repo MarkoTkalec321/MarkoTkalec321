@@ -13,4 +13,4 @@ Online multiplayer game project
 ## 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,kotlin,androidstudio,py,php,js,css,html,angular,mysql,postgres,postman)](https://skillicons.dev)
 ## 📊 Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoTkalec321&show_icons=true&theme=radical)
