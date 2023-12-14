@@ -1,3 +1,3 @@
 # Hello! 👋
 ## 🚀 About Me
-I'm a full stack developer...
+I am passionate about mastering the art of full-stack development, specializing in Java Spring Boot for robust backend solutions and Angular for dynamic frontend experiences.
