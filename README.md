@@ -11,3 +11,4 @@ ASP.NET
 ![Custom Radio Bullet](https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%232b94f4&height=12)
 Online multiplayer game project
 ## 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,kotlin,py,php,js,css,html,angular,mysql,postgres,postman)](https://skillicons.dev)
