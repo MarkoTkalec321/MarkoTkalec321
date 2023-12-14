@@ -27,7 +27,7 @@ Online multiplayer game project
   <a align="right" href="https://github.com/MarkoTkalec321/JavaProduction" title="Java Production"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkoTkalec321&repo=JavaProduction&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-![Alt text](bottom_line.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 
 
