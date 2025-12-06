@@ -9,5 +9,3 @@ ASP.NET
 ???
 ## 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,kotlin,androidstudio,py,php,js,css,html,angular,mysql,postgres,postman)](https://skillicons.dev)
-## 📊 Github stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoTkalec321&layout=compact)
